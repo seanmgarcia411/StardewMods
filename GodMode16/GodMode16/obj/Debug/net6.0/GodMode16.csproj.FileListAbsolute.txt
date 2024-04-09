@@ -6,3 +6,12 @@ C:\Users\Sean\source\repos\GodMode16\GodMode16\obj\Debug\net6.0\GodMode16.Assemb
 C:\Users\Sean\source\repos\GodMode16\GodMode16\obj\Debug\net6.0\GodMode16.AssemblyInfo.cs
 C:\Users\Sean\source\repos\GodMode16\GodMode16\obj\Debug\net6.0\GodMode16.csproj.CoreCompileInputs.cache
 C:\Users\Sean\source\repos\GodMode16\GodMode16\obj\Debug\net6.0\GodMode16.dll
+C:\Users\Sean\source\repos\seanmgarcia411\StardewMods\GodMode16\GodMode16\bin\Debug\net6.0\GodMode16.deps.json
+C:\Users\Sean\Source\Repos\seanmgarcia411\StardewMods\GodMode16\GodMode16\bin\Debug\net6.0\GodMode16.dll
+C:\Users\Sean\Source\Repos\seanmgarcia411\StardewMods\GodMode16\GodMode16\obj\Debug\net6.0\GodMode16.csproj.AssemblyReference.cache
+C:\Users\Sean\Source\Repos\seanmgarcia411\StardewMods\GodMode16\GodMode16\obj\Debug\net6.0\GodMode16.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sean\Source\Repos\seanmgarcia411\StardewMods\GodMode16\GodMode16\obj\Debug\net6.0\GodMode16.AssemblyInfoInputs.cache
+C:\Users\Sean\Source\Repos\seanmgarcia411\StardewMods\GodMode16\GodMode16\obj\Debug\net6.0\GodMode16.AssemblyInfo.cs
+C:\Users\Sean\Source\Repos\seanmgarcia411\StardewMods\GodMode16\GodMode16\obj\Debug\net6.0\GodMode16.csproj.CoreCompileInputs.cache
+C:\Users\Sean\Source\Repos\seanmgarcia411\StardewMods\GodMode16\GodMode16\obj\Debug\net6.0\GodMode16.sourcelink.json
+C:\Users\Sean\Source\Repos\seanmgarcia411\StardewMods\GodMode16\GodMode16\obj\Debug\net6.0\GodMode16.dll

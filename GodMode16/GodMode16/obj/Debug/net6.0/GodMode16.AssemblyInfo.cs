@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GodMode16")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1026921cf82882e611e060c7a93bd625a2521d6")]
 [assembly: System.Reflection.AssemblyProductAttribute("GodMode16")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GodMode16")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

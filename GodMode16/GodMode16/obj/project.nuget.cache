@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0tpIjOqwXee/PHXRXt83Gtlow3ryEan9QhdE7ROrtkq6YGkXTRNmjKdwm6DMWXEgkBagSvU+fp2axLjal2wSFg==",
+  "dgSpecHash": "LLiHTiq9RbYIhrIZOgKmma6xkM9ZkZvKusB06yOGWi2iT345zpSqpXRoYae9JcObNq45Fs0dFDVzMWhftZcqJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sean\\source\\repos\\GodMode16\\GodMode16\\GodMode16.csproj",
+  "projectFilePath": "C:\\Users\\Sean\\Source\\Repos\\seanmgarcia411\\StardewMods\\GodMode16\\GodMode16\\GodMode16.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sean\\.nuget\\packages\\pathoschild.stardew.modbuildconfig\\4.1.1\\pathoschild.stardew.modbuildconfig.4.1.1.nupkg.sha512"
   ],
