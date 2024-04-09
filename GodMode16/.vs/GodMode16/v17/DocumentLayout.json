@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sean\\source\\repos\\GodMode16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8D92355-DE85-4E17-95CC-98E2460C742A}|GodMode16\\GodMode16.csproj|c:\\users\\sean\\source\\repos\\godmode16\\godmode16\\modentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8D92355-DE85-4E17-95CC-98E2460C742A}|GodMode16\\GodMode16.csproj|solutionrelative:godmode16\\modentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8D92355-DE85-4E17-95CC-98E2460C742A}|GodMode16\\GodMode16.csproj|c:\\users\\sean\\source\\repos\\godmode16\\godmode16\\config.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D8D92355-DE85-4E17-95CC-98E2460C742A}|GodMode16\\GodMode16.csproj|solutionrelative:godmode16\\config.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8D92355-DE85-4E17-95CC-98E2460C742A}|GodMode16\\GodMode16.csproj|c:\\users\\sean\\source\\repos\\godmode16\\godmode16\\manifest.json||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D8D92355-DE85-4E17-95CC-98E2460C742A}|GodMode16\\GodMode16.csproj|solutionrelative:godmode16\\manifest.json||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "config.json",
+              "DocumentMoniker": "C:\\Users\\Sean\\source\\repos\\GodMode16\\GodMode16\\config.json",
+              "RelativeDocumentMoniker": "GodMode16\\config.json",
+              "ToolTip": "C:\\Users\\Sean\\source\\repos\\GodMode16\\GodMode16\\config.json",
+              "RelativeToolTip": "GodMode16\\config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-09T23:08:04.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "manifest.json",
+              "DocumentMoniker": "C:\\Users\\Sean\\source\\repos\\GodMode16\\GodMode16\\manifest.json",
+              "RelativeDocumentMoniker": "GodMode16\\manifest.json",
+              "ToolTip": "C:\\Users\\Sean\\source\\repos\\GodMode16\\GodMode16\\manifest.json",
+              "RelativeToolTip": "GodMode16\\manifest.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-27T22:35:41.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModEntry.cs",
+              "DocumentMoniker": "C:\\Users\\Sean\\source\\repos\\GodMode16\\GodMode16\\ModEntry.cs",
+              "RelativeDocumentMoniker": "GodMode16\\ModEntry.cs",
+              "ToolTip": "C:\\Users\\Sean\\source\\repos\\GodMode16\\GodMode16\\ModEntry.cs",
+              "RelativeToolTip": "GodMode16\\ModEntry.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T22:34:41.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
